@@ -1,1 +1,0 @@
-linsta = ['jonas', 'clarisse']
